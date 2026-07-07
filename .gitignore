@@ -1,0 +1,54 @@
+# Editor/history junk
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / lock files
+*.lck
+*.lock
+*.tmp
+*.bak
+*.log
+*.autosave
+~*
+
+# KiCad local/backup files
+*.kicad_prl
+*-backups/
+*.kicad_pcb-bak
+
+# HFSS / Ansys generated results
+*.aedtresults/
+*.asol
+*.mesh
+*.ngmesh
+*.stats
+*.adp
+*.su
+*.sd
+*.profile
+*.EMConvData
+*.nvc
+*.tvc
+*.tvm
+*.tvz
+*.evtrs
+*.hvtrs
+*.imp
+*.sf_msh
+*.sf_mshhdr
+*.sf_fld_*
+
+# AWR / generated datasets - optional, keep if you really need them
+# DATA_SETS/
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# MATLAB/Python temporary
+__pycache__/
+*.asv
