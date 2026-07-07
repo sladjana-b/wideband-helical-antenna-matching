@@ -1,4 +1,5 @@
-Helical Antenna matching network
+Helical Antenna matching network.
+
 This respository contains the design files for wideband impedance matching network for helical antenna.
 The matching network is designed for 0.6GHz up to 10GHz.
 
